@@ -1,6 +1,8 @@
 # 🖥️ CPU Scheduler Simulator
 
 A full-stack web application for visualizing and comparing CPU scheduling algorithms.
+<img width="1736" height="852" alt="image" src="https://github.com/user-attachments/assets/b6870282-6734-4d37-bc71-a770f27b33d0" />
+<img width="1635" height="842" alt="image" src="https://github.com/user-attachments/assets/12278873-6433-4360-9229-743b6fbd6f2f" />
 
 ## ✨ Features
 
