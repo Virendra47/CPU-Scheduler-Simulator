@@ -1,0 +1,46 @@
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Environment files
+.env
+.env.local
+.env.production
+.env.development
+
+# Build outputs
+dist/
+build/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Vite cache
+.vite/
+.cache/
+
+# Backend
+cpu-simulator-backend/node_modules/
+cpu-simulator-backend/.env
+cpu-simulator-backend/package-lock.json
+
+# Frontend
+cpu-simulator/node_modules/
+cpu-simulator/.env
+cpu-simulator/package-lock.json
+cpu-simulator/dist/
+
+# Misc
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
